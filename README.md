@@ -3,11 +3,11 @@
 
 <!--<p align="left"> <a href="https://twitter.com/garcondormarv" target="blank"><img src="https://img.shields.io/twitter/follow/garcondormarv?logo=twitter&style=for-the-badge" alt="MarvinAlamu" /></a> </p>-->
 
-- 🌱 I have developed my ability to work closely with cross-functional teams - including business stakeholders, data analysts, business intelligence analysts, data scientists, data engineers, and software developer teams due to my learning and training experience in the fields of Data Science, Data Engineering and Backend Development for Softwares.
+- 🌱 I have developed my ability to work closely with cross-functional teams - including business stakeholders, data analysts, business intelligence analysts, data scientists, data engineers, and software developer teams due to continuous learning and training experience in the fields of Data Science, Data Engineering and Backend Development for Softwares.
 
 <!-- 👨‍💻 All of my projects are available at [www.marvinalamu.com](https://www.marvinalamu.com)-->
 
-- 💬 Ask me about **Python || SQL || SPSS || Microsoft Excel || R || Tableau || Power BI || Power Automate || MySQL || PostgreSQL || MongoDB || Python || Postman || Spark || AWS || GCP || Django || Git**
+- 💬 Ask me about **Python || SQL || SPSS || Microsoft Excel || R || Tableau || Power BI || Power Automate || MySQL || PostgreSQL || MongoDB || Postman || Spark || AWS || GCP || Terraform || Airflow || DBT || Kafka || Linux || Database Warehouse Management || Django || Docker || Command Prompt || Git**
 
 - 📫 How to reach me **marvinalamu_1@live.com**
 <!--
