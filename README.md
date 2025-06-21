@@ -7,4 +7,4 @@
 
 - 💬 Ask me about **Statistics || Microsoft Excel || Power BI || SQL || Python || AWS || Command Prompt || Git**
 
-- 📫 How to reach me **marvinalamu_1@live.com**
+- 📫 How to reach me **marvinalamu@gmail.com**
